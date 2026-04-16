@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<catalog>
+
+<movie>
+<title>RRR</title>
+<director>Rajamouli</director>
+<year>2022</year>
+</movie>
+
+<movie>
+<title>Inception</title>
+<director>Nolan</director>
+<year>2010</year>
+</movie>
+
+</catalog>
